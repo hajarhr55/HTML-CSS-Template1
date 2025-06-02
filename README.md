@@ -31,7 +31,7 @@ I redesigned the template to reflect a relaxing yoga theme with earthy tones and
 
 ## 🙋‍♀️ Author
 
-Created by **Hajar Zarea Al-Anazi**  
+Created by **Hajar Al-Anazi**  
 As part of a personal practice and improvement project.
 
 
@@ -70,6 +70,6 @@ As part of a personal practice and improvement project.
 
 ## 🙋‍♀️ المطورة
 
-تم تطويره بواسطة **هاجر زرعة العنزي**  
+تم تطويره بواسطة **هاجر العنزي**  
 كمشروع شخصي لتحسين المهارات.
 

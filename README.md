@@ -1,4 +1,4 @@
-# 🌿 CalmSpace – HTML & CSS Template
+# CalmSpace – HTML & CSS Template
 
 A peaceful, responsive HTML and CSS template for a mindfulness and yoga website.  
 This project was built as a part of my learning journey in frontend development.
@@ -7,7 +7,7 @@ This project was built as a part of my learning journey in frontend development.
 
 I followed a tutorial by [Elzero Web School](https://elzerowebschool.com/) to build the original layout and structure.  
 Here is the original project created in the tutorial:  
-🔗 [Leon Template by Elzero](https://elzerowebschool.github.io/Leon_Template/)
+🔗 [Leon Template by Elzero](https://elzerowebschool.github.io/HTML_And_CSS_Template_One/)
 
 ## 🌿 My Customized Version
 
@@ -27,47 +27,49 @@ I redesigned the template to reflect a relaxing yoga theme with earthy tones and
 - HTML5  
 - CSS3  
 - Font Awesome  
-- Google Fonts  
+- Google Fonts
 
 ## 🙋‍♀️ Author
 
 Created by **Hajar Zarea Al-Anazi**  
 As part of a personal practice and improvement project.
 
+
 ---
 
-# 🌿 CalmSpace – قالب HTML و CSS
+# CalmSpace – قالب HTML و CSS
 
-قالب هادئ ومتجاوب بلغة HTML وCSS لموقع يهتم باليوغا والتأمل الذهني.  
-تم بناء هذا المشروع كجزء من رحلة تعلمي في تطوير الواجهات الأمامية.
+قالب بسيط ومتجاوب لموقع يهتم بالاسترخاء واليوغا، تم تطويره باستخدام HTML و CSS فقط.  
+هذا المشروع جزء من رحلتي التعليمية في تعلم تطوير الواجهات الأمامية.
 
-## 🎓 مبني على درس من Elzero Web School
+## 🎓 مبني على دورة Elzero Web School
 
-اتبعت درسًا من [Elzero Web School](https://elzerowebschool.com/) لبناء التصميم الأساسي والبنية.  
-هذا هو المشروع الأصلي الذي تم إنشاؤه في الدرس:  
-🔗 [قالب Leon من Elzero](https://elzerowebschool.github.io/Leon_Template/)
+اتبعت دورة من [Elzero Web School](https://elzerowebschool.com/) لإنشاء التصميم الأصلي.  
+رابط المشروع الأصلي الذي تم بناؤه في الدورة:  
+🔗 [Leon Template by Elzero](https://elzerowebschool.github.io/HTML_And_CSS_Template_One/)
 
-## 🌿 نسختي المخصصة
+## 🌿 نسختي المعدلة
 
-قمت بإعادة تصميم القالب ليعكس طابعًا هادئًا يتناسب مع موضوع اليوغا، باستخدام ألوان ترابية وتركيز على الاسترخاء والرفاهية.  
-🔗 [نسختي – CalmSpace](https://hajarhr55.github.io/HTML-CSS-Template1/)
+أعدت تصميم القالب ليعكس طابعًا هادئًا يناسب مواقع اليوغا، باستخدام ألوان ترابية وتركيز على الراحة النفسية.  
+🔗 [CalmSpace – نسختي المعدلة](https://hajarhr55.github.io/HTML-CSS-Template1/)
 
 ## 📌 المميزات
 
 - تصميم متجاوب بالكامل  
 - أقسام مخصصة: المقدمة، العروض، من نحن، تواصل معنا  
-- لوحة ألوان هادئة وترابية  
-- خطوط من Google وأيقونات من Font Awesome  
-- باستخدام HTML و CSS فقط (بدون JavaScript)
+- ألوان هادئة وترابية  
+- استخدام Google Fonts و Font Awesome  
+- يعتمد فقط على HTML و CSS (بدون JavaScript)
 
 ## 🧰 التقنيات المستخدمة
 
 - HTML5  
 - CSS3  
 - Font Awesome  
-- Google Fonts  
+- Google Fonts
 
-## 🙋‍♀️ المؤلفة
+## 🙋‍♀️ المطورة
 
-تم إنشاء هذا المشروع بواسطة **هاجر زارع العنزي**  
-كجزء من مشروع شخصي للتدريب وتطوير المهارات.
+تم تطويره بواسطة **هاجر زرعة العنزي**  
+كمشروع شخصي لتحسين المهارات.
+
